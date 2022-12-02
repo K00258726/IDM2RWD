@@ -203,6 +203,7 @@ a:visited {
     .game_menu{
       background-color: rgba(40, 26, 115, 1);
       flex: 10%;
+      height: auto;
     }
     
     .game_menu ul{
