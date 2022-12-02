@@ -200,8 +200,9 @@ a:visited {
       height: auto;
       position: relative;
     }
-    .articalContainer img{
-      size: auto;
+    .articalImage{
+      width: 500px;
+      height: 500px;
     }
     .game_menu{
       background-color: rgba(40, 26, 115, 1);
